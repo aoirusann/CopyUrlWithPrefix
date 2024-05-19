@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866668 33.866666"
+   version="1.1"
+   id="svg141"
+   shape-rendering="crispEdges"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="D:\code_concerned\chrome_extension\CopyUrlWithPrefix\images\icon-16.png"
+   inkscape:export-xdpi="12"
+   inkscape:export-ydpi="12"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview143"
+     pagecolor="#a0a0a0"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="3.071661"
+     inkscape:cx="38.252919"
+     inkscape:cy="73.413049"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     width="64px" />
+  <defs
+     id="defs138">
+    <rect
+       x="23.11453"
+       y="31.253449"
+       width="119.15377"
+       height="111.66597"
+       id="rect2165" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.82206042;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect8765"
+       width="32.203838"
+       height="32.229744"
+       x="0.95318562"
+       y="1.0134182"
+       inkscape:export-filename="D:\code_concerned\chrome_extension\CopyUrlWithPrefix\images\icon-48.png"
+       inkscape:export-xdpi="36"
+       inkscape:export-ydpi="36" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458334,0,0,0.26458334,-4.5652554,-4.048434)"
+       id="text2163"
+       style="font-size:26.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2165)"><tspan
+         x="23.115234"
+         y="54.847686"
+         id="tspan999">Copy 
+</tspan><tspan
+         x="23.115234"
+         y="88.18106"
+         id="tspan1001">URL with </tspan><tspan
+         x="23.115234"
+         y="121.51443"
+         id="tspan1003">Prefix</tspan></text>
+  </g>
+</svg>
